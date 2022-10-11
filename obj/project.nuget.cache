@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EYAWq6k+o30MNvg78AeWVaJ5gnFDvmoym37E77anLAfBYoUqa2YJzLPMcfjicstJlvvP5/qo2OfyDqcYJJ7BEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rosek\\code\\itdev-162\\Rose-ONeal-P1\\Rose-ONeal-P1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rosek\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rosek\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rosek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rosek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rosek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
